@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snow (Snorre)</h1>
 <h3 align="center">A passionate tech enthusiast, all into the SSI world now. Im from Norway</h3>
 
-- 💬 Ask me about **SSI, DID, VC, node, react, react native, postgres**
+- 💬 Ask me about **SSI, DID, VC, node, Google cloud, firebase, next.js, react, react native, postgres, mongoDB**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vongohren&show_icons=true&locale=en" alt="vongohren" /></p>
 
